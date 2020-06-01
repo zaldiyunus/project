@@ -2,4 +2,4 @@ Branch test
 
 Commit add
 
-Coba fitur 2
+Tambah fitur 1 cek
