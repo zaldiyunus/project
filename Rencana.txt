@@ -1,7 +1,5 @@
 Branch test
 
-Branch test 2
-
 Commit add
 
 Tambah fitur 1 cek
